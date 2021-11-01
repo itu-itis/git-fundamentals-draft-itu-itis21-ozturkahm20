@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+   <head>
+     <title> My Web Page </title>
+   </head>
+<body>
+<p>
+   <strong> Introduction to Information Systems </strong>
+</p>
+<p>
+<em>
+Ahmet Furkan Öztürk
+<br>
+150200312
+</em>
+</p>
+<p> Evolution of homo species </p>
+<ul>
+                        <li> Homo habilis (able man) </li>
+			<li> Homo erectus (upright man) </li>
+			<li> Homo neanderthalensis </li>
+			<li> Homo Florensiensis (hobbit) </li>
+			<li> Homo sapiens (wise man) </li>
+			<ul>
+				<li> Homo sapiens sapiens </li>
+</ul>
+</ul>
+<body>
+</html>
